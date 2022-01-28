@@ -1,0 +1,15 @@
+float x
+float y
+float z
+
+x = Get next input
+y = Get next input
+z = Get next input
+
+Put RaiseToPower(x, y) to output with 5 decimal places
+Put " " to output
+Put RaiseToPower(x, RaiseToPower(y, z)) to output with 5 decimal places
+Put " " to output
+Put AbsoluteValue(x) to output with 5 decimal places
+Put " " to output
+Put SquareRoot(RaiseToPower((x * y), z)) to output with 5 decimal places

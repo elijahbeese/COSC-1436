@@ -1,0 +1,17 @@
+float totalCaffeine
+float sixHours
+float twelveHours
+float eighteenHours
+totalCaffeine = Get next input
+sixHours = (totalCaffeine/2.0) 
+twelveHours = (sixHours/2.0)
+eighteenHours = (twelveHours/2.0)
+Put "After 6 hours: " to output
+Put sixHours to output with 1 decimal places
+Put " mg\n" to output
+Put "After 12 hours: " to output
+Put twelveHours to output with 1 decimal places
+Put " mg\n" to output
+Put "After 18 hours: " to output
+Put eighteenHours to output with 1 decimal places
+Put " mg" to output

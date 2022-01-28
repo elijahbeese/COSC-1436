@@ -1,0 +1,14 @@
+float gasMiles
+float gasDollars
+float totalCost
+
+gasMiles = Get next input
+gasDollars = Get next input
+totalCost = (gasDollars / gasMiles) * 10
+Put totalCost to output with 2 decimal places
+Put " " to output
+totalCost = (gasDollars / gasMiles) * 50
+Put totalCost to output with 2 decimal places
+Put " " to output
+totalCost = (gasDollars / gasMiles) * 400
+Put totalCost to output with 2 decimal places

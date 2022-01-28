@@ -1,0 +1,16 @@
+integer userNum
+integer x
+integer y
+userNum = Get next input
+x = Get next input
+y = userNum / x
+Put y to output
+Put " " to output
+y = y / x
+Put y to output
+Put " " to output
+y = y / x
+Put y to output
+Put " " to output
+y = y / x
+Put y to output

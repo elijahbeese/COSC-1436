@@ -1,0 +1,13 @@
+integer phoneInput
+integer rightmost
+integer leftmost
+
+phoneInput = Get next input
+
+rightmost = phoneInput % 10000
+
+leftmost = phoneInput / 10000
+
+Put leftmost to output
+Put "-" to output
+Put rightmost to output

@@ -1,0 +1,27 @@
+float numOne
+float numTwo
+float numThree
+integer numAverage
+integer numProduct
+float floatAverage
+float floatProduct
+
+numOne = Get next input
+numTwo = Get next input
+numThree = Get next input
+
+numAverage = (numOne + numTwo + numThree) / 3
+numProduct = numOne * numTwo * numThree
+
+floatAverage = (numOne + numTwo + numThree) / 3
+floatProduct = numOne * numTwo * numThree
+
+Put numAverage to output
+Put " " to output
+Put numProduct to output
+
+Put "\n" to output
+
+Put floatAverage to output with 5 decimal places
+Put " " to output
+Put floatProduct to output with 5 decimal places

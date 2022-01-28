@@ -1,0 +1,21 @@
+float keyFrequency
+float higherFrequency
+
+keyFrequency = Get next input
+
+Put keyFrequency to output with 5 decimal places
+Put " " to output
+
+higherFrequency = keyFrequency * RaiseToPower(RaiseToPower(2, (1.0 / 12.0)), 1)
+Put higherFrequency to output with 5 decimal places
+Put " " to output
+higherFrequency = keyFrequency * RaiseToPower(RaiseToPower(2, (1.0 / 12.0)), 2)
+Put higherFrequency to output with 5 decimal places
+Put " " to output
+
+higherFrequency = keyFrequency * RaiseToPower(RaiseToPower(2, (1.0 / 12.0)), 3)
+Put higherFrequency to output with 5 decimal places
+Put " " to output
+
+higherFrequency = keyFrequency * RaiseToPower(RaiseToPower(2, (1.0 / 12.0)), 4)
+Put higherFrequency to output with 5 decimal places

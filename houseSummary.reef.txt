@@ -1,0 +1,15 @@
+integer currentPrice
+integer lastPrice
+integer priceChange
+integer estMortgage
+currentPrice = Get next input
+lastPrice = Get next input
+priceChange = (lastPrice - currentPrice)
+estMortgage = (currentPrice * 0.045)/12
+Put "This house is $" to output
+Put currentPrice to output
+Put ". The change is $-" to output
+Put priceChange to output
+Put " since last month.\nThe estimated monthly mortgage is $" to output
+Put estMortgage to output with 2 decimal places
+Put "." to output
